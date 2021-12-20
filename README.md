@@ -22,4 +22,5 @@ Areas of Interest:\
  -Consulting\
  -Commodities Trading\
  -Private Equity\
- -Consulting
+ -Consulting\
+ -Agriculture Businesses
